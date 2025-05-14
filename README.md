@@ -1,2 +1,2 @@
-- i 🐱‍👤 Hi, I’m Nycolas
+- i🐱‍👤 Hi, I’m Nycolas
 
