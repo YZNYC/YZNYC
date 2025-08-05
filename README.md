@@ -6,7 +6,7 @@ Gosto de entender as coisas do jeito **raiz**, resolver problemas reais e evolui
 
 ---
 
-## 🌱 Sobre mim
+##  Sobre mim
 
 - ⚙️ Trabalho com **Node.js** e **Express** para criar APIs completas, sempre com foco em boas práticas e clareza
 - 🧱 Meu estudo é guiado por projetos práticos — prefiro errar, revisar e ajustar até entender de verdade
