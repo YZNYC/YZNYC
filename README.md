@@ -1,4 +1,19 @@
-- 🐱‍👤 Hi, I’m Nycolas
+# 🐱‍👤Hi, i'm Nycolas
+
+Atualmente estou em uma jornada intensa de aprendizado como desenvolvedor, focando principalmente em back-end e lógica de programação. Não comecei com todas as respostas, mas sigo com uma mentalidade de progresso diário e projetos que me desafiam de verdade.
+
+Gosto de entender as coisas do jeito **raiz**, resolver problemas reais e evoluir por conta própria — mesmo que isso leve tempo.
+
+---
+
+## 🌱 Sobre mim
+
+- ⚙️ Trabalho com **Node.js** e **Express** para criar APIs completas, sempre com foco em boas práticas e clareza
+- 🧱 Meu estudo é guiado por projetos práticos — prefiro errar, revisar e ajustar até entender de verdade
+- 🧠 Busco aprender de forma contínua e profunda, sem pressa mas com propósito
+
+---
+
 
 # 📊 GitHub Stats:
 ![YZNYC's Stats](https://github-readme-stats.vercel.app/api?username=YZNYC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![YZNYC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YZNYC&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
